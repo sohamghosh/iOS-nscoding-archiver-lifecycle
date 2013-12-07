@@ -1,0 +1,11 @@
+Code School. NSCoding. (Un)Archiving. App Lifecycle.
+
+iOS App directory structure:
+
+App
+    App.bundle (contains compiled code, read-only)
+    Documents (good place to save model data) 
+    Library
+        Caches
+        Preferences
+    tmp
